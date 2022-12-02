@@ -1,5 +1,7 @@
 ## DiffusionInst: Diffusion Model for Instance Segmentation
 
+If you have any questions, please move to [DiffusionInst](https://github.com/chenhaoxing/DiffusionInst) 
+
 **DiffusionInst is the first work of diffusion model for instance segmentation.**
 
 > [**DiffusionInst: Diffusion Model for Instance Segmentation**](https://arxiv.org/abs/2212.xxxx)               
