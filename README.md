@@ -8,6 +8,8 @@
 > [Zhangxuan Gu](https://scholar.google.com/citations?user=Wkp3s68AAAAJ&hl=zh-CN&oi=ao), [Haoxing Chen](https://chenhaoxing.github.io/), Zhuoer Xu, Jun Lan, Changhua Meng, [Weiqiang Wang*](https://scholar.google.com/citations?hl=zh-CN&user=yZ5iffAAAAAJ) 
 > *[arXiv 2212.xxxx](https://arxiv.org/abs/2212.xxxxx)*  
 
+## Getting Started
+The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
 
 ## Models
 Method | Mask AP (1 step) | Mask AP (4 step) 
