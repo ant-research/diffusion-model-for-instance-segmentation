@@ -12,7 +12,7 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 
 ## Todo list:
 - &check; Release source code.
-- &#9744; Adding directly filter denoising
+- &#9744; Adding directly filter denoising.
 
 ## Getting Started
 The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
