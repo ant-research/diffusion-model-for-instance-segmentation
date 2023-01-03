@@ -3,7 +3,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/diffusioninst-diffusion-model-for-instance/instance-segmentation-on-lvis-v1-0-val)](https://paperswithcode.com/sota/instance-segmentation-on-lvis-v1-0-val?p=diffusioninst-diffusion-model-for-instance)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/diffusioninst-diffusion-model-for-instance/instance-segmentation-on-coco)](https://paperswithcode.com/sota/instance-segmentation-on-coco?p=diffusioninst-diffusion-model-for-instance)
 
-**If you have any questions, please move to [https://github.com/chenhaoxing/DiffusionInst](https://github.com/chenhaoxing/DiffusionInst).**
+**[More updates on 2023.1.1] If you have any questions, please move to [https://github.com/chenhaoxing/DiffusionInst](https://github.com/chenhaoxing/DiffusionInst).**
+
+
 
 **DiffusionInst is the first work of diffusion model for instance segmentation.**
 ![](figure/framework.jpeg)
